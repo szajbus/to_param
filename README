@@ -4,6 +4,11 @@ ToParam
 ToParam plugin provides simple macro to define all methods you may potentially need to fully use to_param mechanism.
 Intended but not limited to work with Ruby on Rails and ActiveRecord.
 
+Installation
+============
+
+  script/plugin install git://github.com/szajbus/to_param.git
+
 Example
 =======
 
